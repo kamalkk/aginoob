@@ -1,8 +1,7 @@
 # aginoob
 AGI 菜鸟教程
 
-<audio controls style="width:100%;max-width:320px">
-  <source src="./demo1-chat.mp3" type="audio/mpeg">
-</audio>
 
-<audio src="demo1-chat.mp3" controls style="width:100%;max-width:320px">
+<audio controls style="width:100%;max-width:320px">
+  <source src="https://raw.githubusercontent.com/kamalkk/aginoob/refs/heads/main/demo1-chat.mp3" type="audio/mpeg">
+  你的浏览器不支持音频播放
