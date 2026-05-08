@@ -9,3 +9,4 @@ AGI 菜鸟教程
 🔊 音频教程：[demo1-chat.mp3](https://github.com/user-attachments/files/27514117/demo1-chat.mp3)
 
   <video src="https://github.com/user-attachments/files/27514117/demo1-chat.mp3" controls></video>
+<video src="https://github.com/user-attachments/files/27514117/demo1-chat.mp3" controls style="width:100%;max-width:320px;"></video>
